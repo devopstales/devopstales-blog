@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rebel-base-response
+data:
+  message: "{\"Cluster\": \"c1\", \"Planet\": \"N'Zoth\"}\n"

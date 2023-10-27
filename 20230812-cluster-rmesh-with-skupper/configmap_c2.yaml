@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rebel-base-response
+data:
+  message: "{\"Cluster\": \"c2\", \"Planet\": \"Foran Tutha\"}\n"
